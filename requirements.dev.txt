@@ -7,3 +7,4 @@ pytest-instafail==0.3.0
 sphinx
 sphinx_rtd_theme
 numpydoc
+scipy>=1.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
