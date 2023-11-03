@@ -5,3 +5,4 @@ Cython>=0.27.2
 imageio>=2.1.2
 cffi>=1.10
 fasteners~=0.15
+pillow>=10.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
